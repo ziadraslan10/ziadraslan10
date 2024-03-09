@@ -5,15 +5,21 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
+- 🌍 I live in Cairo
+  
 - 🌱 I’m currently learning **Web development.**
 
-- 📫 How to reach me **ziad.raslan.10@gmail.com**
+- ✉️  You can contact me at **ziad.raslan.10@gmail.com**
+
+![](https://komarev.com/ghpvc/?username=ziadraslan10)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ziad-raslan-aa5992254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem gewiley" height="30" width="40" /></a>
 <a href="https://www.facebook.com/zezo.raslan.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem gewily" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziad-raslan-aa5992254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem gewiley" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_just_zeyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="MahmoudSaeed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Ziad_Raslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="x-mn3m-x" height="30" width="40" /></a>
+<a href="https://twitter.com/ZiadRaslan63993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudSaeed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
